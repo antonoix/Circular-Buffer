@@ -1,0 +1,9 @@
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netstandard2.0\CircularBuffer.deps.json
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netstandard2.0\CircularBuffer.dll
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netstandard2.0\CircularBuffer.pdb
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netstandard2.0\CircularBuffer.csprojAssemblyReference.cache
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netstandard2.0\CircularBuffer.AssemblyInfoInputs.cache
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netstandard2.0\CircularBuffer.AssemblyInfo.cs
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netstandard2.0\CircularBuffer.csproj.CoreCompileInputs.cache
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netstandard2.0\CircularBuffer.dll
+C:\Users\375an\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netstandard2.0\CircularBuffer.pdb

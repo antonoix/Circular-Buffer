@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dcOf6wrbW8Vgq9sA7Plu6AiFiuof18NsgIy3Qt3gIWwWXmuHD4jc64D3R+f8BS33FrCLztLAv2ENSrKJGy7E4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\375an\\source\\repos\\CircularBuffer\\CircularBuffer\\CircularBuffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\375an\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\375an\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
